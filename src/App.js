@@ -22,6 +22,9 @@ export default function App() {
           <div className="todo">
             <span className="todo-text">Learning react</span>
           </div>
+          <div className="todo">
+            <span className="todo-text">Learning react</span>
+          </div>
         </section>
       </div>
     </div>
